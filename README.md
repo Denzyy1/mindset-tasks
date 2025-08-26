@@ -1,6 +1,6 @@
 # mindset-tasks
 
-Name: Karim Hossam Farouk
+Name: Karim Hossam 
 
 - to install dependencies use the command --> composer install
 -  to run the server use the  command --> php artisan serve
